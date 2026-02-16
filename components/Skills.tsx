@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import RevealSection from "./RevealSection";
+import TechLogos from "./TechLogos";
 import {
   Code2,
   Database,
@@ -82,6 +83,9 @@ export default function Skills() {
             </RevealSection>
           ))}
         </div>
+
+        {/* Tech Logos */}
+        <TechLogos />
       </div>
     </section>
   );

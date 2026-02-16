@@ -90,7 +90,7 @@ export async function generateMetadata({
       apple: "/favicon.png",
     },
     verification: {
-      // google: "your-google-verification-code",
+      google: "google-site-verification=LmMS4yeE9tNLoBo-PAI7EmzSo8QLTuTvk9YPimYI5Y0",
     },
     category: "technology",
   };
@@ -118,6 +118,9 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className="dark">
       <head>
+        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
         <JsonLd locale={locale} />
       </head>
       <body
