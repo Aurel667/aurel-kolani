@@ -20,6 +20,10 @@ import {
   siTailwindcss,
   siPrisma,
   siSocketdotio,
+  siLinux,
+  siPostman,
+  siReactrouter,
+  siShadcnui,
 } from "simple-icons";
 
 interface TechLogo {
@@ -49,6 +53,10 @@ const techLogos: TechLogo[] = [
   { name: "TailwindCSS", icon: { path: siTailwindcss.path, hex: siTailwindcss.hex } },
   { name: "Prisma", icon: { path: siPrisma.path, hex: siPrisma.hex } },
   { name: "Socket.io", icon: { path: siSocketdotio.path, hex: siSocketdotio.hex } },
+  { name: "Linux", icon: { path: siLinux.path, hex: siLinux.hex } },
+  { name: "Postman", icon: { path: siPostman.path, hex: siPostman.hex } },
+  { name: "React Router", icon: { path: siReactrouter.path, hex: siReactrouter.hex } },
+  { name: "Shadcn UI", icon: { path: siShadcnui.path, hex: siShadcnui.hex } },
 ];
 
 export default function TechLogos() {

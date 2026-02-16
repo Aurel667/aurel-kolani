@@ -2,24 +2,10 @@ import type { Metadata } from "next";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import JsonLd from "@/components/JsonLd";
-import "../globals.css";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://aurel-kolani.netlify.app";
-
-const spaceGrotesk = Space_Grotesk({
-  variable: "--font-space-grotesk",
-  subsets: ["latin"],
-  display: "swap",
-});
-
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
-  subsets: ["latin"],
-  display: "swap",
-});
 
 export async function generateMetadata({
   params,
@@ -116,20 +102,11 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className="dark">
-      <head>
-        <link rel="icon" type="image/png" href="/favicon.png" />
-        <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-        <link rel="apple-touch-icon" href="/favicon.png" />
-        <JsonLd locale={locale} />
-      </head>
-      <body
-        className={`${spaceGrotesk.variable} ${jetbrainsMono.variable} antialiased grain`}
-      >
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          {children}
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <>
+      <JsonLd locale={locale} />
+      <NextIntlClientProvider locale={locale} messages={messages}>
+        {children}
+      </NextIntlClientProvider>
+    </>
   );
 }
