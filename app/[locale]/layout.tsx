@@ -7,7 +7,7 @@ import { routing } from "@/i18n/routing";
 import JsonLd from "@/components/JsonLd";
 import "../globals.css";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://aurelkolani.dev";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://aurel-kolani.netlify.app";
 
 const spaceGrotesk = Space_Grotesk({
   variable: "--font-space-grotesk",
@@ -28,7 +28,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const otherLocale = locale === "fr" ? "en" : "fr";
+  const otherLocale = locale === "fr" ? "fr" : "en";
 
   return {
     title: {
