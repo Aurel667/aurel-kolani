@@ -24,6 +24,9 @@ import {
   siPostman,
   siReactrouter,
   siShadcnui,
+  siNginx,
+  siVercel,
+  siNetlify,
 } from "simple-icons";
 
 interface TechLogo {
@@ -57,6 +60,9 @@ const techLogos: TechLogo[] = [
   { name: "Postman", icon: { path: siPostman.path, hex: siPostman.hex } },
   { name: "React Router", icon: { path: siReactrouter.path, hex: siReactrouter.hex } },
   { name: "Shadcn UI", icon: { path: siShadcnui.path, hex: siShadcnui.hex } },
+  { name: "Nginx", icon: { path: siNginx.path, hex: siNginx.hex } },
+  { name: "Vercel", icon: { path: siVercel.path, hex: siVercel.hex } },
+  { name: "Netlify", icon: { path: siNetlify.path, hex: siNetlify.hex } },
 ];
 
 export default function TechLogos() {
