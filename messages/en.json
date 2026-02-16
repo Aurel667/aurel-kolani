@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Aurel Kolani — FullStack Developer TypeScript & Node.js | Dakar",
+    "description": "Portfolio of Aurel Kolani, Backend-oriented FullStack Developer based in Dakar. Expert in TypeScript, Node.js, Express, React, Next.js, Laravel, MongoDB, PostgreSQL. Building high-performance web applications end-to-end.",
+    "keywords": "fullstack developer, backend developer, typescript, node.js, express, react, next.js, laravel, mongodb, postgresql, dakar, senegal, aurel kolani, web developer",
+    "ogTitle": "Aurel Kolani — FullStack Backend Developer TypeScript",
+    "ogDescription": "Expert in TypeScript, Node.js, React & Laravel based in Dakar. I design and build high-performance web applications from concept to deployment."
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Aurel Kolani",
+    "role": "FullStack Developer",
+    "description": "Backend-oriented — TypeScript, Node.js/Express, PHP/Laravel, React.js, React Native",
+    "cta": "View my projects",
+    "contact": "Get in touch"
+  },
+  "about": {
+    "title": "About",
+    "p1": "Passionate FullStack Developer based in Dakar, Senegal. I design and build high-performance web and mobile applications, from concept to deployment.",
+    "p2": "Currently pursuing a Master's in Information Systems Management & Security at Groupe ISM Dakar, I combine a solid software engineering background with hands-on experience on real-world projects.",
+    "p3": "My approach: clean code, thoughtful architecture, and a keen focus on user experience. I love building MVPs end-to-end and solving complex problems.",
+    "location": "Dakar, Senegal",
+    "status": "Open to opportunities"
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "company": "Groupe Supdeco",
+        "role": "Fullstack Developer — Professional Internship",
+        "location": "Dakar, Senegal",
+        "period": "May 2025 — Nov. 2025",
+        "description": "Frontend development with React.js and TypeScript. Backend development with Laravel, Node.js, and Express."
+      },
+      {
+        "company": "KUCIBOK",
+        "role": "Fullstack Developer — Fixed-term Contract",
+        "location": "Dakar, Senegal · Full remote",
+        "period": "Dec. 2024 — Nov. 2025",
+        "description": "Frontend development with React.js, backend with Node.js/Express, API integration, and SEO optimization."
+      },
+      {
+        "company": "BITIK S.A",
+        "role": "Backend Developer — Internship",
+        "location": "Dakar, Senegal · Full remote",
+        "period": "Jul. 2024 — Oct. 2024",
+        "description": "API development with Laravel, Swagger documentation, MySQL database management."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "school": "Groupe ISM Dakar",
+        "degree": "Master's in IS Management & Security",
+        "period": "Nov. 2025 — Dec. 2027",
+        "details": "Strategic Management, Software Architecture, Security, IS Audit, Integration & IS Urbanization"
+      },
+      {
+        "school": "Groupe Supdeco Dakar",
+        "degree": "Bachelor's in Software Engineering",
+        "period": "Graduated — Aug. 2025",
+        "details": "Web & Mobile Development, UX/UI Design, Software Testing, DevOps, Linux Administration"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View project",
+    "viewCode": "Source code",
+    "items": [
+      {
+        "name": "Kucibok",
+        "description": "Art management and commerce platform with blockchain traceability. Buy, sell, and manage artworks for artists, collectors, and professionals.",
+        "tech": ["Node.js", "Express.js", "MongoDB", "React.js", "TailwindCSS", "Ethers.js", "JWT", "PayDunya"],
+        "url": "https://kucibok.com"
+      },
+      {
+        "name": "Aurel Chat",
+        "description": "Real-time messaging application with chat room management and instant messaging via Socket.io.",
+        "tech": ["React", "Node.js", "Express", "MongoDB", "Socket.io", "JWT", "TailwindCSS"],
+        "url": "https://aurel-chat.vercel.app"
+      },
+      {
+        "name": "ENT-ESIEX Platform",
+        "description": "Complete management system for higher education: enrollment, users, programs, and infrastructure.",
+        "tech": ["TypeScript", "Express.js 5", "Prisma", "MySQL", "React", "shadcn/ui", "Tailwind CSS", "JWT"]
+      },
+      {
+        "name": "LibGest",
+        "description": "Online library management system built with microservices architecture. Browse, borrow, and manage catalogs.",
+        "tech": ["Node.js", "Express.js", "MongoDB", "Microservices", "React 19", "TailwindCSS 4", "JWT"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "languages": {
+        "title": "Languages & Frameworks",
+        "items": ["JavaScript (ES6+)", "TypeScript", "PHP", "Node.js", "Express.js", "React", "Next.js", "Laravel", "React Native"]
+      },
+      "databases": {
+        "title": "Databases",
+        "items": ["MongoDB", "PostgreSQL", "MySQL", "MariaDB", "Redis"]
+      },
+      "architecture": {
+        "title": "Architecture & Deployment",
+        "items": ["REST APIs", "Microservices", "MVC", "Nginx", "Linux"]
+      },
+      "devops": {
+        "title": "Tools & DevOps",
+        "items": ["Git/GitHub", "GitHub Actions", "Docker", "Postman"]
+      },
+      "security": {
+        "title": "Security",
+        "items": ["JWT", "RBAC", "HTTP-Only Cookies"]
+      },
+      "frontend": {
+        "title": "Frontend",
+        "items": ["TailwindCSS", "Responsive Design", "Accessible UX"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's talk about it.",
+    "email": "Email",
+    "phone": "Phone",
+    "socials": "Socials",
+    "cta": "Send an email"
+  },
+  "footer": {
+    "made": "Designed & built by",
+    "rights": "All rights reserved."
+  }
+}

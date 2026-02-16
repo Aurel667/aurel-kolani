@@ -1,0 +1,75 @@
+Pag’yendou Christian Aurel Trésor KOLANI  
+Développeur FullStack orienté Backend Typescript Node.js/Express, PHP/Laravel, 
+React.js, React Native 
+Dakar, Sénégal | aureliuskolani@gmail.com | +221 77 349 12 10  
+LinkedIn : https://www.linkedin.com/in/christian-aurel/ 
+GitHub : https://github.com/Aurel667 
+FORMATION ACADÉMIQUE 
+Groupe ISM Dakar                                                                                                  
+Master en Management et Sécurité des Systèmes d’information                
+Dakar, Sénégal  
+Novembre 2025 – Décembre 2027 
+Management Stratégique • UI/UX Design • Design thinking • Base de données avancées • Architecture 
+logicielle • Sécurité • Réseaux informatiques • Audit SI • Intégration & urbanisation des SI  
+Groupe Supdeco Dakar                                                                                                  
+Bachelor en Génie Logiciel (Software engineering)                                                                             
+Dakar, Sénégal  
+Août 2025  
+Développement Web • Mobile • Bases de données avancées • UX/UI Design • Tests logiciels • Analyse de 
+données • Gestion de projet • Algorithmique • DevOps • Administration Linux • Réseaux • DataWarehouse 
+EXPÉRIENCES PROFESSIONNELLES  
+Groupe Supdeco                                                                                              
+Développeur Fullstack – Stage professionnel                                                              
+Dakar, Sénégal  
+Mai 2025 - Novembre 2025  
+Développement frontend : React.js • TypeScript • Développement backend : Laravel, Node.js, Express 
+KUCIBOK                                                                                   
+Développeur Fullstack - CDD                                 
+Dakar, Sénégal (Full remote)  
+Décembre 2024 – Novembre 2025  
+Développement frontend : React.js • Développement backend : Node.js, Express • Intégration d’APIs • SEO  
+BITIK S.A                                         
+Développeur Backend – Stage                                                                                   
+Dakar, Sénégal(Full remote)  
+Juillet 2024 – Octobre 2024  
+Développement d’API avec Laravel • Documentation Swagger • Base de données MySQL 
+PROJETS 
+Kucibok – https://kucibok.com - Plateforme de Gestion et Commerce d'Œuvres d'Art 
+Plateforme web full-stack permettant aux artistes, collectionneurs et professionnels de l'art de gérer, acheter et 
+vendre des œuvres d'art avec traçabilité blockchain. 
+Compétences : Node.js, Express.js, MongoDB (Mongoose), JWT Authentication, React.js, Vite, TailwindCSS, 
+Ethers.js (Wallet Ethereum intégré),  Intégration PayDunya 
+Aurel-chat app – https://aurel-chat.vercel.app - Application de messagerie en temps réel 
+Application web de chat moderne développée avec une architecture full-stack (Node.js/Express, MongoDB, 
+Socket.io pour le backend ; React, Vite, TailwindCSS pour le frontend). L'application permet aux utilisateurs de 
+créer des comptes, de gérer des salons de discussion et d'échanger des messages en temps réel. 
+Compétences : React, Vite, Node.js, Express, MongoDB, Socket.io, JWT, TailwindCSS, Vercel 
+Plateforme ENT-ESIEX - Plateforme de Gestion d'Établissement Scolaire  
+Système complet de gestion pour établissement d'enseignement supérieur permettant la gestion des inscriptions, 
+utilisateurs, formations et infrastructures. 
+Compétences : TypeScript, Express.js 5, Prisma ORM, MySQLReact, shadcn/ui, Tailwind CSS, JWT 
+LibGest - Système de Gestion de Bibliothèque en Ligne 
+Application web full-stack basée sur une architecture microservices permettant aux utilisateurs de consulter, 
+emprunter et rendre des livres dans une bibliothèque numérique, avec une interface d'administration complète 
+pour la gestion du catalogue. 
+Compétences : Node.js, Express.js, MongoDB (Mongoose), Architecture Microservices (3 services : Auth, 
+Books, Lending), JWT Authentication, Cookies HTTP-Only, React 19, Vite, React Router, Context API, 
+TailwindCSS 4, API REST, CORS 
+COMPÉTENCES 
+Compétences Techniques 
+ Langages & Frameworks : JavaScript (ES6+),  TypeScript, PHP, Node.js, Express.js, React, Next.js, 
+Laravel 
+ Base de données : MongoDB (Mongoose), PostgreSQL, MySql, MariaDB, Redis 
+ Architecture & Déploiement : REST APIs, Intégration APIs, MVC, microservices, Nginx,Linux 
+ Outils & DevOps : Git/GitHub, Github Actions, Postman, Docker 
+ Sécurité & Authentification : JWT, RBAC, Cookies 
+ Frontend : TailwindCSS, responsive design, UX accessible 
+ UML & Modélisation : cas d’utilisation, diagrammes de classes/activité, modélisation NoSQL 
+Compétences Transversales 
+ Conception et développement de MVP de bout en bout (MVP → production) 
+ Optimisation de la performance (backend & frontend) 
+ Gestion de projet agile (Scrum, Trello) 
+ Résolution de problèmes et apprentissage rapide 
+ Communication claire et vulgarisation technique 
+ Logiciels : Pack Office (Word, Excel, Powerpoint), Canva 
+Langues : Français : Langue maternelle • Anglais : Courant (technique et professionnel)

@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Aurel Kolani — Développeur FullStack TypeScript & Node.js | Dakar",
+    "description": "Portfolio de Aurel Kolani, Développeur FullStack orienté Backend basé à Dakar. Expert TypeScript, Node.js, Express, React, Next.js, Laravel, MongoDB, PostgreSQL. Conception d'applications web performantes de bout en bout.",
+    "keywords": "développeur fullstack, backend developer, typescript, node.js, express, react, next.js, laravel, mongodb, postgresql, dakar, sénégal, aurel kolani, développeur web",
+    "ogTitle": "Aurel Kolani — Développeur FullStack Backend TypeScript",
+    "ogDescription": "Expert TypeScript, Node.js, React & Laravel basé à Dakar. Je conçois et développe des applications web performantes, de l'idée au déploiement."
+  },
+  "nav": {
+    "about": "À propos",
+    "experience": "Expériences",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "Aurel Kolani",
+    "role": "Développeur FullStack",
+    "description": "Orienté Backend — TypeScript, Node.js/Express, PHP/Laravel, React.js, React Native",
+    "cta": "Voir mes projets",
+    "contact": "Me contacter"
+  },
+  "about": {
+    "title": "À propos",
+    "p1": "Développeur FullStack passionné basé à Dakar, Sénégal, je conçois et développe des applications web et mobiles performantes, de l'idée au déploiement.",
+    "p2": "Actuellement en Master en Management et Sécurité des Systèmes d'Information au Groupe ISM Dakar, je combine une solide formation en génie logiciel avec une expérience terrain sur des projets concrets.",
+    "p3": "Mon approche : un code propre, une architecture réfléchie, et une attention particulière à l'expérience utilisateur. J'aime construire des MVP de bout en bout et résoudre des problèmes complexes.",
+    "location": "Dakar, Sénégal",
+    "status": "Disponible pour opportunités"
+  },
+  "experience": {
+    "title": "Expériences",
+    "items": [
+      {
+        "company": "Groupe Supdeco",
+        "role": "Développeur Fullstack — Stage professionnel",
+        "location": "Dakar, Sénégal",
+        "period": "Mai 2025 — Nov. 2025",
+        "description": "Développement frontend avec React.js et TypeScript. Développement backend avec Laravel, Node.js et Express."
+      },
+      {
+        "company": "KUCIBOK",
+        "role": "Développeur Fullstack — CDD",
+        "location": "Dakar, Sénégal · Full remote",
+        "period": "Déc. 2024 — Nov. 2025",
+        "description": "Développement frontend React.js, backend Node.js/Express, intégration d'APIs et optimisation SEO."
+      },
+      {
+        "company": "BITIK S.A",
+        "role": "Développeur Backend — Stage",
+        "location": "Dakar, Sénégal · Full remote",
+        "period": "Juil. 2024 — Oct. 2024",
+        "description": "Développement d'API avec Laravel, documentation Swagger, base de données MySQL."
+      }
+    ]
+  },
+  "education": {
+    "title": "Formation",
+    "items": [
+      {
+        "school": "Groupe ISM Dakar",
+        "degree": "Master en Management et Sécurité des SI",
+        "period": "Nov. 2025 — Déc. 2027",
+        "details": "Management Stratégique, Architecture logicielle, Sécurité, Audit SI, Intégration & Urbanisation des SI"
+      },
+      {
+        "school": "Groupe Supdeco Dakar",
+        "degree": "Bachelor en Génie Logiciel",
+        "period": "Diplômé — Août 2025",
+        "details": "Développement Web & Mobile, UX/UI Design, Tests logiciels, DevOps, Administration Linux"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "viewProject": "Voir le projet",
+    "viewCode": "Code source",
+    "items": [
+      {
+        "name": "Kucibok",
+        "description": "Plateforme de gestion et commerce d'œuvres d'art avec traçabilité blockchain. Achat, vente et gestion d'œuvres pour artistes, collectionneurs et professionnels.",
+        "tech": ["Node.js", "Express.js", "MongoDB", "React.js", "TailwindCSS", "Ethers.js", "JWT", "PayDunya"],
+        "url": "https://kucibok.com"
+      },
+      {
+        "name": "Aurel Chat",
+        "description": "Application de messagerie en temps réel avec gestion de salons de discussion, échange de messages instantanés via Socket.io.",
+        "tech": ["React", "Node.js", "Express", "MongoDB", "Socket.io", "JWT", "TailwindCSS"],
+        "url": "https://aurel-chat.vercel.app"
+      },
+      {
+        "name": "Plateforme ENT-ESIEX",
+        "description": "Système complet de gestion pour établissement d'enseignement supérieur : inscriptions, utilisateurs, formations et infrastructures.",
+        "tech": ["TypeScript", "Express.js 5", "Prisma", "MySQL", "React", "shadcn/ui", "Tailwind CSS", "JWT"]
+      },
+      {
+        "name": "LibGest",
+        "description": "Système de gestion de bibliothèque en ligne en architecture microservices. Consultation, emprunt et administration du catalogue.",
+        "tech": ["Node.js", "Express.js", "MongoDB", "Microservices", "React 19", "TailwindCSS 4", "JWT"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "categories": {
+      "languages": {
+        "title": "Langages & Frameworks",
+        "items": ["JavaScript (ES6+)", "TypeScript", "PHP", "Node.js", "Express.js", "React", "Next.js", "Laravel", "React Native"]
+      },
+      "databases": {
+        "title": "Bases de données",
+        "items": ["MongoDB", "PostgreSQL", "MySQL", "MariaDB", "Redis"]
+      },
+      "architecture": {
+        "title": "Architecture & Déploiement",
+        "items": ["REST APIs", "Microservices", "MVC", "Nginx", "Linux"]
+      },
+      "devops": {
+        "title": "Outils & DevOps",
+        "items": ["Git/GitHub", "GitHub Actions", "Docker", "Postman"]
+      },
+      "security": {
+        "title": "Sécurité",
+        "items": ["JWT", "RBAC", "Cookies HTTP-Only"]
+      },
+      "frontend": {
+        "title": "Frontend",
+        "items": ["TailwindCSS", "Responsive Design", "UX Accessible"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Vous avez un projet en tête ? Discutons-en.",
+    "email": "Email",
+    "phone": "Téléphone",
+    "socials": "Réseaux",
+    "cta": "Envoyer un email"
+  },
+  "footer": {
+    "made": "Conçu & développé par",
+    "rights": "Tous droits réservés."
+  }
+}
